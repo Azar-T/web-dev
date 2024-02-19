@@ -1,0 +1,35 @@
+<style>
+
+  p{
+    font-family: Arial;
+
+  }
+  .sports{
+    
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 24px;
+   margin-bottom: 0%;
+
+  }
+
+  .stats{
+    font-size: 23px;
+    color: rgb(96, 96, 96);
+    margin-top: 1%;
+
+  }
+
+</style>
+
+
+<p class="sports">
+  Kylian Mbappé, P.S.G. and the Dangers of a Loveless Marriage
+</p>
+
+<p class="stats">
+  3.4M views  &#183; 6 days ago.
+</p>
+<u></u>
+<span></span>
